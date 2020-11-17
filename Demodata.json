@@ -1,0 +1,52 @@
+[
+  {
+    "id": 23423423,
+    "Schutzfunktion": "Korrosionsschutz",
+    "Schichtsystem": "Corrotect",
+    "Zusammensetzung": "Zink-Eisen Dünnschicht",
+    "Eingangsdatum": "23.10.2020",
+    "Fälligkeitsdatum": "24.12.2020",
+    "Auftragsart": "Beschichten",
+    "Einsatzgebiet": "Herausragende Korrosionsbeständigkeit gegen Seewasser"
+  },
+  {
+    "id": 34534554,
+    "Schutzfunktion": "Verschleißschutz",
+    "Schichtsystem": "Durotect",
+    "Zusammensetzung": "Eisenmischoxid",
+    "Eingangsdatum": "12.09.2020",
+    "Fälligkeitsdatum": "24.12.2020",
+    "Auftragsart": "Beschichten",
+    "Einsatzgebiet": "Verbesserung des Notlaufverhaltens bei Mangelschmierung"
+  },
+  {
+    "id": 42352342,
+    "Schutzfunktion": "Stromisolation",
+    "Schichtsystem": "Insutect",
+    "Zusammensetzung": "Keramikschicht aus Aluminiumoxid",
+    "Eingangsdatum": "30.08.2020",
+    "Fälligkeitsdatum": "24.12.2020",
+    "Auftragsart": "Isolation",
+    "Einsatzgebiet": "Gleichstromwiderstand"
+  },
+  {
+    "id": 73545321,
+    "Schutzfunktion": "Reibungsreduzierung",
+    "Schichtsystem": "Triondur",
+    "Zusammensetzung": "Wasserstoffhaltigeamorphe Kohlenstoffschicht",
+    "Eingangsdatum": "08.07.2020",
+    "Fälligkeitsdatum": "24.12.2020",
+    "Auftragsart": "Reibungsminderung",
+    "Einsatzgebiet": "Hoher abrasiver Verschleißschutz"
+  },
+  {
+    "id": 12363452,
+    "Schutzfunktion": "Sensorschutz",
+    "Schichtsystem": "Sensotect",
+    "Zusammensetzung": "dehnungsempfindliche Metallbeschichtung",
+    "Eingangsdatum": "16.06.2020",
+    "Fälligkeitsdatum": "24.12.2020",
+    "Auftragsart": "Sensorik",
+    "Einsatzgebiet": "Messung an 2D- und 3D-Geometrien möglich"
+  }
+]
