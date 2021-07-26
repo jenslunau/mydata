@@ -13,10 +13,16 @@
     "State": "Bayern"
   },
   {
-    "Name": "Star Market",
-    "Street": "335 Providence Hwy",
-    "City": "Westwood",
-    "State": "MA"
+    "Name": "Aldi Süd",
+    "Street": "Rosenheimer Str.30",
+    "City": "München",
+    "State": "Bayern"
+  },
+  {
+    "Name": "Lidl",
+    "Street": "Zweibrückenstr.8",
+    "City": "München",
+    "State": "Bayern"
   }
 ]
 }
