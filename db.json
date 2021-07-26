@@ -1,4 +1,5 @@
-[
+{
+"Locations":[
   {
     "Name": "Wegman's",
     "Street": "856 Lexington St",
@@ -16,41 +17,6 @@
     "Street": "335 Providence Hwy",
     "City": "Westwood",
     "State": "MA"
-  },
-  {
-    "Name": "Market Basket",
-    "Street": "653 Worcester Rd",
-    "City": "Framingham",
-    "State": "MA"
-  },
-  {
-    "Name": "Market Basket",
-    "Street": "650 Adams St",
-    "City": "Quincy",
-    "State": "MA"
-  },
-  {
-    "Name": "Stop & Shop",
-    "Street": "125 High St",
-    "City": "Boston",
-    "State": "MA"
-  },
-  {
-    "Name": "Market Basket",
-    "Street": "2 Emery Rd",
-    "City": "Allston",
-    "State": "MA"
-  },
-  {
-    "Name": "Star Market",
-    "Street": "333 Webster Ave",
-    "City": "Cambridge",
-    "State": "MA"
-  },
-  {
-    "Name": "Wegman's",
-    "Street": "1 Ellery St",
-    "City": "South Boston",
-    "State": "MA"
   }
 ]
+}
