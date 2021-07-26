@@ -1,16 +1,16 @@
 {
-"Locations":[
+"StoreLocations":[
   {
-    "Name": "Wegman's",
-    "Street": "856 Lexington St",
-    "City": "Waltham",
-    "State": "MA"
+    "Name": "EDEKA",
+    "Street": "Christopstr.9",
+    "City": "München",
+    "State": "Bayern"
   },
   {
-    "Name": "Shaw's",
-    "Street": "34 Cambridge St",
-    "City": "Burlington",
-    "State": "MA"
+    "Name": "Rewe",
+    "Street": "Pienzenauer Str.1",
+    "City": "München",
+    "State": "Bayern"
   },
   {
     "Name": "Star Market",
