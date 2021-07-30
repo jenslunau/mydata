@@ -24,5 +24,61 @@
     "City": "München",
     "State": "Bayern"
   }
+],
+"Lokomotive":[
+  {
+    "Typ": "Tfz 1016 Taurus",
+    "Dienstgewicht": "88",
+    "Bremskraft": "240",
+    "Hersteller": "Siemens"
+  },
+  {
+    "Typ": "Tfz 1116 Taurus",
+    "Dienstgewicht": "88",
+    "Bremskraft": "240",
+    "Hersteller": "Siemens"
+  },
+  {
+    "Typ": "Tfz 1216 Taurus",
+    "Dienstgewicht": "87",
+    "Bremskraft": "240",
+    "Hersteller": "Siemens"
+  },
+  {
+    "Typ": "Tfz 1142",
+    "Dienstgewicht": "83",
+    "Bremskraft": "110",
+    "Hersteller": "SGP Graz"
+  },
+  {
+    "Typ": "Tfz 1144",
+    "Dienstgewicht": "84",
+    "Bremskraft": "115",
+    "Hersteller": "SGP Graz"
+  },
+  {
+    "Typ": "Tfz 1063",
+    "Dienstgewicht": "82",
+    "Bremskraft": "115",
+    "Hersteller": "SGP Graz"
+  },
+  {
+    "Typ": "Tfz 1163",
+    "Dienstgewicht": "82",
+    "Bremskraft": "115",
+    "Hersteller": "SGP Graz"
+  },
+  {
+    "Typ": "Tfz 1064",
+    "Dienstgewicht": "112",
+    "Bremskraft": "180",
+    "Hersteller": "SGP Graz"
+  },
+  {
+    "Typ": "Tfz 1293 Vectron",
+    "Dienstgewicht": "90",
+    "Bremskraft": "240",
+    "Hersteller": "Siemens"
+  }
 ]
 }
